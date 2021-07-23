@@ -1,29 +1,3 @@
-# build-a-bot
+# Build A Bot
 
-## Project setup
-
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn build
-```
-
-### Lints and fixes files
-
-```
-yarn lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> Migrate to [younho9/vue-examples](https://github.com/younho9/vue-examples/tree/main/examples/build-a-bot)
